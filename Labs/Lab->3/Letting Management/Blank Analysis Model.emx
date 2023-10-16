@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect Designer 9.5-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_7m3-IGjWEe635vpBZ2KSeQ" name="Blank Analysis Model">
+  <eAnnotations xmi:id="_7m3-IWjWEe635vpBZ2KSeQ" source="uml2.diagrams" references="_7m3-ImjWEe635vpBZ2KSeQ">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_7m3-ImjWEe635vpBZ2KSeQ" type="Class" name="Main">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_9A5FEGjWEe635vpBZ2KSeQ" element="_9AxJQGjWEe635vpBZ2KSeQ" fontName="Noto Fangsong KSS Vertical" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_9A66QGjWEe635vpBZ2KSeQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_9A66QWjWEe635vpBZ2KSeQ" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_9A7hUGjWEe635vpBZ2KSeQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_9A7hUWjWEe635vpBZ2KSeQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_9A8vcGjWEe635vpBZ2KSeQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_9A9WgGjWEe635vpBZ2KSeQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_9A9WgWjWEe635vpBZ2KSeQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_9A99kGjWEe635vpBZ2KSeQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_9A_LsGjWEe635vpBZ2KSeQ" visible="false" type="StructureCompartment"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9A5FEWjWEe635vpBZ2KSeQ" x="2112" y="1188"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_mdEA4GjYEe635vpBZ2KSeQ" element="_mdA9kGjYEe635vpBZ2KSeQ" fontName="Noto Fangsong KSS Vertical" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_mdF2EGjYEe635vpBZ2KSeQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_mdF2EWjYEe635vpBZ2KSeQ" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_mdF2EmjYEe635vpBZ2KSeQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_mdGdIGjYEe635vpBZ2KSeQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_mdGdIWjYEe635vpBZ2KSeQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_mdHEMGjYEe635vpBZ2KSeQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_mdHrQGjYEe635vpBZ2KSeQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_mdHrQWjYEe635vpBZ2KSeQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_mdISUGjYEe635vpBZ2KSeQ" visible="false" type="StructureCompartment"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mdEA4WjYEe635vpBZ2KSeQ" x="12936" y="1716"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_-60JMGjYEe635vpBZ2KSeQ" element="_-6we0GjYEe635vpBZ2KSeQ" fontName="Noto Fangsong KSS Vertical" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_-61XUGjYEe635vpBZ2KSeQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_-61XUWjYEe635vpBZ2KSeQ" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_-61XUmjYEe635vpBZ2KSeQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_-61-YGjYEe635vpBZ2KSeQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_-61-YWjYEe635vpBZ2KSeQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_-62lcGjYEe635vpBZ2KSeQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_-62lcWjYEe635vpBZ2KSeQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_-63MgGjYEe635vpBZ2KSeQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_-63MgWjYEe635vpBZ2KSeQ" visible="false" type="StructureCompartment"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-60JMWjYEe635vpBZ2KSeQ" x="12408" y="6600"/>
+      </children>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_2BZcAGjZEe635vpBZ2KSeQ" element="_2BLZkGjZEe635vpBZ2KSeQ" source="_9A5FEGjWEe635vpBZ2KSeQ" target="_mdEA4GjYEe635vpBZ2KSeQ" fontName="Noto Fangsong KSS Vertical" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_2BaDEGjZEe635vpBZ2KSeQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2BaDEmjZEe635vpBZ2KSeQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2BaqIGjZEe635vpBZ2KSeQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2BaDEWjZEe635vpBZ2KSeQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2BaqIWjZEe635vpBZ2KSeQ" type="ToMultiplicityLabel" element="_2BPrAGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2BaqI2jZEe635vpBZ2KSeQ" type="ToMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2BaqImjZEe635vpBZ2KSeQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2BaqJGjZEe635vpBZ2KSeQ" type="ToRoleLabel" element="_2BPrAGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2BbRMGjZEe635vpBZ2KSeQ" type="ToRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2BaqJWjZEe635vpBZ2KSeQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2BbRMWjZEe635vpBZ2KSeQ" type="FromMultiplicityLabel" element="_2BMnsGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2BbRM2jZEe635vpBZ2KSeQ" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2BbRMmjZEe635vpBZ2KSeQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2BbRNGjZEe635vpBZ2KSeQ" type="FromRoleLabel" element="_2BMnsGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2BbRNmjZEe635vpBZ2KSeQ" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2BbRNWjZEe635vpBZ2KSeQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2Bb4QGjZEe635vpBZ2KSeQ" type="ToQualifierLabel" element="_2BPrAGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_2Bb4QmjZEe635vpBZ2KSeQ" type="QualifierCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2Bb4QWjZEe635vpBZ2KSeQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2Bb4Q2jZEe635vpBZ2KSeQ" type="FromQualifierLabel" element="_2BMnsGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_2Bb4RWjZEe635vpBZ2KSeQ" type="QualifierCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2Bb4RGjZEe635vpBZ2KSeQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2BcfUGjZEe635vpBZ2KSeQ" type="ToConstraintLabel" element="_2BPrAGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:ListCompartment" xmi:id="_2BcfUmjZEe635vpBZ2KSeQ" type="ToConstraintCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2BcfUWjZEe635vpBZ2KSeQ" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2BcfU2jZEe635vpBZ2KSeQ" type="FromConstraintLabel" element="_2BMnsGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:ListCompartment" xmi:id="_2BcfVWjZEe635vpBZ2KSeQ" type="FromConstraintCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2BcfVGjZEe635vpBZ2KSeQ" y="1058"/>
+        </children>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2BZcAWjZEe635vpBZ2KSeQ" points="[105, -14, -124, -14]$[120, -32, -109, -32]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_2iuncGjZEe635vpBZ2KSeQ" element="_2iiaMGjZEe635vpBZ2KSeQ" source="_mdEA4GjYEe635vpBZ2KSeQ" target="_-60JMGjYEe635vpBZ2KSeQ" fontName="Noto Fangsong KSS Vertical" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_2ivOgGjZEe635vpBZ2KSeQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2ivOgmjZEe635vpBZ2KSeQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2ivOg2jZEe635vpBZ2KSeQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2ivOgWjZEe635vpBZ2KSeQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2ivOhGjZEe635vpBZ2KSeQ" type="ToMultiplicityLabel" element="_2inSsGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2iv1kGjZEe635vpBZ2KSeQ" type="ToMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2ivOhWjZEe635vpBZ2KSeQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2iv1kWjZEe635vpBZ2KSeQ" type="ToRoleLabel" element="_2inSsGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2iv1k2jZEe635vpBZ2KSeQ" type="ToRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2iv1kmjZEe635vpBZ2KSeQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2iv1lGjZEe635vpBZ2KSeQ" type="FromMultiplicityLabel" element="_2ikPYGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2iv1lmjZEe635vpBZ2KSeQ" type="FromMultiplicity"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2iv1lWjZEe635vpBZ2KSeQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2iwcoGjZEe635vpBZ2KSeQ" type="FromRoleLabel" element="_2ikPYGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_2iwcomjZEe635vpBZ2KSeQ" type="FromRole"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2iwcoWjZEe635vpBZ2KSeQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2iwco2jZEe635vpBZ2KSeQ" type="ToQualifierLabel" element="_2inSsGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_2iwcpWjZEe635vpBZ2KSeQ" type="QualifierCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2iwcpGjZEe635vpBZ2KSeQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2iwcpmjZEe635vpBZ2KSeQ" type="FromQualifierLabel" element="_2ikPYGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_2ixDsGjZEe635vpBZ2KSeQ" type="QualifierCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2iwcp2jZEe635vpBZ2KSeQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2ixDsWjZEe635vpBZ2KSeQ" type="ToConstraintLabel" element="_2inSsGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:ListCompartment" xmi:id="_2ixDs2jZEe635vpBZ2KSeQ" type="ToConstraintCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2ixDsmjZEe635vpBZ2KSeQ" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_2ixDtGjZEe635vpBZ2KSeQ" type="FromConstraintLabel" element="_2ikPYGjZEe635vpBZ2KSeQ">
+          <children xmi:type="notation:ListCompartment" xmi:id="_2ixDtmjZEe635vpBZ2KSeQ" type="FromConstraintCompartment"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_2ixDtWjZEe635vpBZ2KSeQ" y="1058"/>
+        </children>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2iuncWjZEe635vpBZ2KSeQ" points="[110, -8, -107, -1]$[150, -13, -67, -6]"/>
+      </edges>
+    </contents>
+  </eAnnotations>
+  <eAnnotations xmi:id="_7m3-I2jWEe635vpBZ2KSeQ" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_7m3-JGjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBActivityDiagram" value="1"/>
+    <details xmi:id="_7m3-JWjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBClassDiagram" value="1"/>
+    <details xmi:id="_7m3-JmjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBComponentDiagram" value="1"/>
+    <details xmi:id="_7m3-J2jWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBSequenceDiagram" value="1"/>
+    <details xmi:id="_7m3-KGjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBUseCaseDiagram" value="1"/>
+    <details xmi:id="_7m3-KWjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBAction" value="1"/>
+    <details xmi:id="_7m3-KmjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBActivity1" value="1"/>
+    <details xmi:id="_7m3-K2jWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBActivity2" value="1"/>
+    <details xmi:id="_7m3-LGjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBActivity3" value="1"/>
+    <details xmi:id="_7m3-LWjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBClass" value="1"/>
+    <details xmi:id="_7m3-LmjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBClassTemplateParameter" value="1"/>
+    <details xmi:id="_7m3-L2jWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBCollaboration" value="1"/>
+    <details xmi:id="_7m3-MGjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBCollaborationUse" value="1"/>
+    <details xmi:id="_7m3-MWjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBComment1" value="1"/>
+    <details xmi:id="_7m3-MmjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBComment2" value="1"/>
+    <details xmi:id="_7m3-M2jWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBCommunication" value="1"/>
+    <details xmi:id="_7m3-NGjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBComponent" value="1"/>
+    <details xmi:id="_7m3-NWjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBComponentTemplateParameter" value="1"/>
+    <details xmi:id="_7m3-NmjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBFragment" value="1"/>
+    <details xmi:id="_7m3-N2jWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBFunction" value="1"/>
+    <details xmi:id="_7m3-OGjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBInterface" value="1"/>
+    <details xmi:id="_7m3-OWjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBInterfaceTemplateParameter" value="1"/>
+    <details xmi:id="_7m3-OmjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBLifeLine" value="1"/>
+    <details xmi:id="_7m3-O2jWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBPackage" value="1"/>
+    <details xmi:id="_7m3-PGjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBPackageTemplateParameter" value="1"/>
+    <details xmi:id="_7m3-PWjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBRealization" value="1"/>
+    <details xmi:id="_7m3-PmjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBRelationship1" value="1"/>
+    <details xmi:id="_7m3-P2jWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBRelationship2" value="1"/>
+    <details xmi:id="_7m3-QGjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBSequence1" value="1"/>
+    <details xmi:id="_7m3-QWjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBSequence2" value="1"/>
+    <details xmi:id="_7m3-QmjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBSubsystem" value="1"/>
+    <details xmi:id="_7m3-Q2jWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBTypes1" value="1"/>
+    <details xmi:id="_7m3-RGjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBTypes2" value="1"/>
+    <details xmi:id="_7m3-RWjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBTypes3" value="1"/>
+    <details xmi:id="_7m3-RmjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBTypes4" value="1"/>
+    <details xmi:id="_7m3-R2jWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBUseCase1" value="1"/>
+    <details xmi:id="_7m3-SGjWEe635vpBZ2KSeQ" key="com.ibm.xtools.activities.umlBBUseCase2" value="1"/>
+  </eAnnotations>
+  <packageImport xmi:id="_7m3-SWjWEe635vpBZ2KSeQ">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_7m3-SmjWEe635vpBZ2KSeQ" name="Activity1">
+    <eAnnotations xmi:id="_7m3-S2jWEe635vpBZ2KSeQ" source="uml2.diagrams">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_7m3-TGjWEe635vpBZ2KSeQ" type="Activity" element="_7m3-SmjWEe635vpBZ2KSeQ" name="ActivityDiagram1" measurementUnit="Himetric">
+        <children xmi:type="umlnotation:UMLFrame" xmi:id="_7m3-TWjWEe635vpBZ2KSeQ" type="Activity Frame" element="_7m3-SmjWEe635vpBZ2KSeQ" showStereotype="Label">
+          <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_7m3-TmjWEe635vpBZ2KSeQ" type="ActivityCompartment"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_7m3-T2jWEe635vpBZ2KSeQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7m3-UGjWEe635vpBZ2KSeQ" x="793" y="793"/>
+        </children>
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_7m3-UWjWEe635vpBZ2KSeQ" name="support_hide_pins"/>
+      </contents>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_9AxJQGjWEe635vpBZ2KSeQ" name="LettingCompany">
+    <ownedAttribute xmi:id="_NzmNQGjXEe635vpBZ2KSeQ" name="name" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_2BMnsGjZEe635vpBZ2KSeQ" name="property" visibility="private" type="_mdA9kGjYEe635vpBZ2KSeQ" association="_2BLZkGjZEe635vpBZ2KSeQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_G7lFMGjaEe635vpBZ2KSeQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_G7keIGjaEe635vpBZ2KSeQ"/>
+    </ownedAttribute>
+    <ownedOperation xmi:id="_o1bb4GjXEe635vpBZ2KSeQ" name="LettingCompany">
+      <ownedParameter xmi:id="_1HBJUGjXEe635vpBZ2KSeQ" name="name">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_cXYKUGjYEe635vpBZ2KSeQ" name="addProperty">
+      <ownedParameter xmi:id="_hh5HYGjYEe635vpBZ2KSeQ" name="property" type="_mdA9kGjYEe635vpBZ2KSeQ"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_trYowGjYEe635vpBZ2KSeQ" name="computeTotalMonthlyRent">
+      <ownedParameter xmi:id="_0pEMkGjYEe635vpBZ2KSeQ" name="Parameter1" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </ownedParameter>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_mdA9kGjYEe635vpBZ2KSeQ" name="Property">
+    <ownedAttribute xmi:id="_2iZFsGjYEe635vpBZ2KSeQ" name="name" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_2BPrAGjZEe635vpBZ2KSeQ" name="lettingCompany" visibility="private" type="_9AxJQGjWEe635vpBZ2KSeQ" association="_2BLZkGjZEe635vpBZ2KSeQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2BSHQGjZEe635vpBZ2KSeQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2BRgMGjZEe635vpBZ2KSeQ"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_2ikPYGjZEe635vpBZ2KSeQ" name="apartment" visibility="private" type="_-6we0GjYEe635vpBZ2KSeQ" association="_2iiaMGjZEe635vpBZ2KSeQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2imEkGjZEe635vpBZ2KSeQ" value="*"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2ildgGjZEe635vpBZ2KSeQ"/>
+    </ownedAttribute>
+    <ownedOperation xmi:id="_B0wx0GjZEe635vpBZ2KSeQ" name="Property">
+      <ownedParameter xmi:id="_EyGssGjZEe635vpBZ2KSeQ" name="name">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_Kz_WoGjZEe635vpBZ2KSeQ" name="computeMonthlyRent">
+      <ownedParameter xmi:id="_NxJEQGjZEe635vpBZ2KSeQ" name="Parameter1" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_RFwPoGjZEe635vpBZ2KSeQ" name="addApartment">
+      <ownedParameter xmi:id="_Ts3b0GjZEe635vpBZ2KSeQ" name="apartment" type="_-6we0GjYEe635vpBZ2KSeQ"/>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_-6we0GjYEe635vpBZ2KSeQ" name="Apartment">
+    <ownedAttribute xmi:id="_aiXUAGjZEe635vpBZ2KSeQ" name="aptNumber" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_exu3cGjZEe635vpBZ2KSeQ" name="monthlyRent" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_jIrCgGjZEe635vpBZ2KSeQ" name="isOccupied" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_2inSsGjZEe635vpBZ2KSeQ" name="property" visibility="private" type="_mdA9kGjYEe635vpBZ2KSeQ" association="_2iiaMGjZEe635vpBZ2KSeQ">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Kqg1EGjaEe635vpBZ2KSeQ" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_KqgOAGjaEe635vpBZ2KSeQ"/>
+    </ownedAttribute>
+    <ownedOperation xmi:id="_RCrRAGjaEe635vpBZ2KSeQ" name="Apartment">
+      <ownedParameter xmi:id="_TLDSwGjaEe635vpBZ2KSeQ" name="aptNumber">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedParameter>
+    </ownedOperation>
+    <ownedOperation xmi:id="_oJ2A4GjaEe635vpBZ2KSeQ" name="isOccupied">
+      <ownedParameter xmi:id="_q12UIGjaEe635vpBZ2KSeQ" name="Parameter1" direction="return">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+      </ownedParameter>
+    </ownedOperation>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_sReaEGjZEe635vpBZ2KSeQ" name="PrimitiveTypes">
+    <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_sRfoMGjZEe635vpBZ2KSeQ" name="boolean"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_2BLZkGjZEe635vpBZ2KSeQ" memberEnd="_2BMnsGjZEe635vpBZ2KSeQ _2BPrAGjZEe635vpBZ2KSeQ"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_2iiaMGjZEe635vpBZ2KSeQ" memberEnd="_2ikPYGjZEe635vpBZ2KSeQ _2inSsGjZEe635vpBZ2KSeQ"/>
+  <packagedElement xmi:type="uml:Collaboration" xmi:id="_oyNzAGjbEe635vpBZ2KSeQ" name="ComputeTotalMonthelyRent">
+    <ownedBehavior xmi:type="uml:Interaction" xmi:id="_x8_ggGjbEe635vpBZ2KSeQ" name="Interaction1">
+      <eAnnotations xmi:id="_x9IDYGjbEe635vpBZ2KSeQ" source="uml2.diagrams">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_x9IDYWjbEe635vpBZ2KSeQ" type="Sequence" element="_x8_ggGjbEe635vpBZ2KSeQ" name="SequenceDiagram1" measurementUnit="Himetric">
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_x9IDYmjbEe635vpBZ2KSeQ" element="_x8_ggGjbEe635vpBZ2KSeQ" fontName="Cantarell" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_x9IDY2jbEe635vpBZ2KSeQ" type="interaction_compartment"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_x9IDZGjbEe635vpBZ2KSeQ" type="Name"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x9IDZWjbEe635vpBZ2KSeQ" x="793" y="793"/>
+          </children>
+        </contents>
+      </eAnnotations>
+    </ownedBehavior>
+  </packagedElement>
+  <profileApplication xmi:id="_7m3-UmjWEe635vpBZ2KSeQ">
+    <eAnnotations xmi:id="_7m3-U2jWEe635vpBZ2KSeQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="_7m3-VGjWEe635vpBZ2KSeQ">
+    <eAnnotations xmi:id="_7m3-VWjWEe635vpBZ2KSeQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_7m3-VmjWEe635vpBZ2KSeQ">
+    <eAnnotations xmi:id="_7m3-V2jWEe635vpBZ2KSeQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_4OVBUD0TEeKt-L0gyEptgQ?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+</uml:Model>
